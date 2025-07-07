@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/atupele-client/static/css/main.cf890fdb.css",
-    "main.js": "/atupele-client/static/js/main.5a11908a.js",
+    "main.js": "/atupele-client/static/js/main.b92e2196.js",
     "static/js/453.2dcf5cff.chunk.js": "/atupele-client/static/js/453.2dcf5cff.chunk.js",
     "index.html": "/atupele-client/index.html",
     "main.cf890fdb.css.map": "/atupele-client/static/css/main.cf890fdb.css.map",
-    "main.5a11908a.js.map": "/atupele-client/static/js/main.5a11908a.js.map",
+    "main.b92e2196.js.map": "/atupele-client/static/js/main.b92e2196.js.map",
     "453.2dcf5cff.chunk.js.map": "/atupele-client/static/js/453.2dcf5cff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.5a11908a.js"
+    "static/js/main.b92e2196.js"
   ]
 }
